@@ -3,11 +3,12 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
 
 ## ✨Featured Projects
 <table>
-    <tr width="500px" align="center">
+    <thead>
+    <tr>
       <th width="500px"> <a href="https://github.com/wahyuwerayana/S-PONG"> S-PONG </th>
       <th width="500px"> <a href="https://github.com/wahyuwerayana/Side-Scroller"> Sky Adventure </th>
     </tr>
-        
+    </thead>  
   <tbody>
   <tr width="500px" align="center">
   <td>
