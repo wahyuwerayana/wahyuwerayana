@@ -5,12 +5,12 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
 <table>
     <thead>
     <tr>
-      <th width="300px"> <a href="https://github.com/wahyuwerayana/S-PONG"> S-PONG </th>
-      <th width="300px"> <a href="https://github.com/wahyuwerayana/Side-Scroller"> Sky Adventure </th>
+      <th width="100px"> <a href="https://github.com/wahyuwerayana/S-PONG"> S-PONG </th>
+      <th width="100px"> <a href="https://github.com/wahyuwerayana/Side-Scroller"> Sky Adventure </th>
     </tr>
     </thead>  
   <tbody>
-  <tr width="300px" align="center">
+  <tr width="100px" align="center">
   <td>
     
   <img src="https://github.com/wahyuwerayana/S-PONG/assets/115724777/2d7d8995-1cf6-4ea0-944f-9b02478d0b53" width="400px">
@@ -21,7 +21,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </td>
   </tr>
   
-  <tr width="300px" align="center">
+  <tr width="100px" align="center">
     <td>
       S-PONG is a 2D Pong Game with space theme created with Unity Engine.
     </td>
@@ -30,11 +30,11 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     </td>
   </tr>
   <tr>
-    <th width="300px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">First Project</th>
-    <th width="300px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
+    <th width="100px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">First Project</th>
+    <th width="100px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
   </tr>
       
-  <tr width="300px" align="center">
+  <tr width="100px" align="center">
     <td>
       <img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" width="400px">
     </td>
@@ -43,7 +43,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     </td>
   </tr>
     
-  <tr width="300px" align="center">
+  <tr width="100px" align="center">
       <td>The first project from the Game Programming Course, consist of attack animation, credit scene, and main menu UI.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element.</td>
   </tr>
