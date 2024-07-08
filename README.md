@@ -3,7 +3,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
 
 ## ✨Featured Projects
 <table align="center">
-    <tr>
+    <tr width="420px" align="center">
       <th width="420px"> <a href="https://github.com/wahyuwerayana/S-PONG"> S-PONG </th>
       <th width="420px"> <a href="https://github.com/wahyuwerayana/Side-Scroller"> Sky Adventure </th>
     </tr>
@@ -20,7 +20,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </td>
   </tr>
   
-  <tr>
+  <tr width="420px" align="center">
     <td>
       S-PONG is a 2D Pong Game with space theme created with Unity Engine.
     </td>
@@ -33,7 +33,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     <th width="420px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
   </tr>
       
-  <tr>
+  <tr width="420px" align="center">
     <td>
       <img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" width="400px">
     </td>
@@ -42,7 +42,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     </td>
   </tr>
     
-  <tr>
+  <tr width="420px" align="center">
       <td>The first project from the Game Programming Course, consist of attack animation, credit scene, and main menu UI.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element.</td>
   </tr>
