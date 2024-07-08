@@ -17,7 +17,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   
   <tr width="500px">
     <td>S-PONG is a 2D Pong Game with space theme created with Unity Engine.</td>
-    <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. A thrilling journey through floating islands and treacherous obstacles.</td>
+    <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. Go for a thrilling journey through floating islands and treacherous obstacles.</td>
   </tr>
   <tr>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">First Project</th>
