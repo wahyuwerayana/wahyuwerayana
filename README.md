@@ -2,7 +2,7 @@
 Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
 
 ## ✨Featured Projects
-<table align="center">
+<table>
     <tr width="500px" align="center">
       <th width="500px"> <a href="https://github.com/wahyuwerayana/S-PONG"> S-PONG </th>
       <th width="500px"> <a href="https://github.com/wahyuwerayana/Side-Scroller"> Sky Adventure </th>
