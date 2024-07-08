@@ -9,11 +9,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     </tr>
   <tbody>
   <tr width="500px" align="center">
-  <td>
-    
-  <img src="https://github.com/wahyuwerayana/S-PONG/assets/115724777/2d7d8995-1cf6-4ea0-944f-9b02478d0b53" height="200px" width="500px">
-  
-  </td>
+  <td><img src="https://github.com/wahyuwerayana/S-PONG/assets/115724777/2d7d8995-1cf6-4ea0-944f-9b02478d0b53" height="200px"></td>
   <td>
   Sky Adventure img
   </td>
@@ -29,8 +25,8 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </tr>
       
   <tr width="500px" align="center">
-    <td><img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" height="200px" width="500px"></td>
-    <td><img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" height="200px" width="500px"></td>
+    <td><img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" height="200px"></td>
+    <td><img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" height="200px"></td>
   </tr>
     
   <tr width="500px">
