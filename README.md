@@ -10,9 +10,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   <tbody>
   <tr width="500px" align="center">
   <td><img src="https://github.com/wahyuwerayana/S-PONG/assets/115724777/2d7d8995-1cf6-4ea0-944f-9b02478d0b53" height="200px"></td>
-  <td>
-  Sky Adventure img
-  </td>
+  <td><img src="https://github.com/wahyuwerayana/Side-Scroller/assets/115724777/56f6ff65-2ae2-4eb0-9d27-f047be7e16c7" height="200px"></td>
   </tr>
   
   <tr width="500px">
