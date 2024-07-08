@@ -38,7 +38,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
       <img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" width="400px">
     </td>
     <td>
-      image
+      <img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" width="400px">
     </td>
   </tr>
     
