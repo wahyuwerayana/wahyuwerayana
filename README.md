@@ -5,7 +5,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
 <table>
     <tr>
       <th width="500px" align="center"> <a href="https://github.com/wahyuwerayana/S-PONG">S-PONG</th>
-      <th width="500px" align="center"> <a href="https://github.com/wahyuwerayana/Side-Scroller">Sky Adventure</th>
+      <th width="500px" align="center"> <a href="https://github.com/wahyuwerayana/Sky-Adventure-Side-Scroller">Sky Adventure</th>
     </tr>
   <tbody>
   <tr width="500px" align="center">
