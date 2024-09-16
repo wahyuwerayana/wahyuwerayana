@@ -18,17 +18,17 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. Go for a thrilling journey through floating islands and treacherous obstacles.</td>
   </tr>
   <tr>
-    <th width="500px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">First Project</th>
+    <th width="500px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">Nord's Breath</th>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
   </tr>
       
   <tr width="500px" align="center">
-    <td><img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/b99922c1-fc57-4b6b-9bd3-3f95ce4ec2af" height="200px"></td>
     <td><img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" height="200px"></td>
   </tr>
     
   <tr width="500px">
-      <td>The first project from the Game Programming Course, consist of attack animation, credit scene, and main menu UI.</td>
+      <td>Nord's Breath is a 3D Tower Defense with island randomization.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element.</td>
   </tr>
   </tbody>
