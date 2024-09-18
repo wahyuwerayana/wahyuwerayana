@@ -28,7 +28,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </tr>
     
   <tr width="500px">
-      <td>Nord's Breath is a 3D Tower Defense with island randomization.</td>
+      <td>Nora's Breath is a roguelike tower defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element.</td>
   </tr>
   </tbody>
