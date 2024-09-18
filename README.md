@@ -18,7 +18,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
     <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. Go for a thrilling journey through floating islands and treacherous obstacles.</td>
   </tr>
   <tr>
-    <th width="500px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">Nord's Breath</th>
+    <th width="500px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">Nora's Breath</th>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
   </tr>
       
