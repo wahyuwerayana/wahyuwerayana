@@ -1,5 +1,5 @@
 ## Hi There👋
-Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
+Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer using Unity Engine. Currently an active student at Binus University, majoring in Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
 
 ## ✨Featured Projects
 <table>
@@ -14,8 +14,8 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </tr>
   
   <tr width="500px">
-    <td>S-PONG is a 2D Pong Game with space theme created with Unity Engine.</td>
-    <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. Go for a thrilling journey through floating islands and treacherous obstacles.</td>
+    <td>S-PONG is a 2D Pong Game with space theme created with Unity Engine. As a Game Programmer, I created the background animation, transition from main menu to game scene with Animator Controller. Created the UI using Unity UI System, game mechanics and implemented it in code.</td>
+    <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. Go for a thrilling journey through floating islands and treacherous obstacles. I created the level design using Tilemap, Player and Enemy animation using Animator Controller, and created checkpoint in game.</td>
   </tr>
   <tr>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/FirstProject_GameProgramming">Nora's Breath</th>
@@ -23,13 +23,13 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </tr>
       
   <tr width="500px" align="center">
-    <td><img src="https://github.com/user-attachments/assets/b99922c1-fc57-4b6b-9bd3-3f95ce4ec2af" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/073f2065-778b-410d-bddf-e20f936e4695" height="200px"></td>
     <td><img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" height="200px"></td>
   </tr>
     
   <tr width="500px">
-      <td>Nora's Breath is a roguelike tower defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost.</td>
-      <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element.</td>
+      <td>Nora's Breath is a roguelike tower defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost. I am here acting as a Game Programmer, tasked with implementing all the mechanisms of this game, starting from generating random islands, building towers, enemies following waypoints, post processing using Unity Post Processing, etc.</td>
+      <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element. Here I implement the mechanics for the main story part in this game, created the dialogue system, UI, created the main character + sign language assets, and the transition between scenes.</td>
   </tr>
   </tbody>
 </table>
