@@ -28,7 +28,7 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
   </tr>
     
   <tr width="500px">
-      <td>Nora's Breath is a roguelike tower defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost. I am here acting as a Game Programmer, tasked with implementing all the mechanisms of this game, starting from generating random islands, building towers, enemies following waypoints, post processing using Unity Post Processing, etc.</td>
+      <td>Nora's Breath is a 3D Tower Defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost. I am here acting as a Game Programmer, tasked with implementing all the mechanisms of this game, starting from generating random islands, building towers, enemies following waypoints, post processing using Unity Post Processing, etc.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element. Here I implement the mechanics for the main story part in this game, created the dialogue system, UI, created the main character + sign language assets, and the transition between scenes.</td>
   </tr>
   </tbody>
