@@ -14,6 +14,17 @@
     <td>S-PONG is a 2D Pong Game with space theme created with Unity Engine. As a Game Programmer, I created the background animation, transition from main menu to game scene with Animator Controller. Created the UI using Unity UI System, game mechanics and implemented it in code.</td>
     <td>Sky Adventure is a side-scroller platformer game set in a vibrant and whimsical sky world. Go for a thrilling journey through floating islands and treacherous obstacles. I created the level design using Tilemap, Player and Enemy animation using Animator Controller, and created checkpoint in game.</td>
   </tr>
+
+  <tr>
+      <td align='center'><a href="https://github.com/wahyuwerayana/S-PONG/releases">Release</td>
+      <td align='center'><a href="https://github.com/wahyuwerayana/Sky-Adventure-Side-Scroller/releases">Release</td>
+  </tr>
+  </tbody>
+</table>
+
+<br />
+
+<table>
   <tr>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/IGI-Showcase-Project">Nora's Breath</th>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
@@ -27,6 +38,11 @@
   <tr width="500px">
       <td>Nora's Breath is a 3D Tower Defense game. Player will take place as a little seed, using the power of spirit given by Nora to protect Yggdrasil. Fight the enemy till the end and protect Yggdrasil at all cost. I am here acting as a Game Programmer, tasked with implementing all the mechanisms of this game, starting from generating random islands, building towers, enemies following waypoints, post processing using Unity Post Processing, etc.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element. Here I implement the mechanics for the main story part in this game, created the dialogue system, UI, created the main character + sign language assets, and the transition between scenes.</td>
+  </tr>
+
+  <tr>
+      <td align='center'>Release</td>
+      <td align='center'><a href="https://xtremehyper.itch.io/forbidden-dreams">Release</td>
   </tr>
   </tbody>
 </table>
