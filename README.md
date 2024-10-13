@@ -47,8 +47,11 @@
   </tbody>
 </table>
 
-## Hi There👋
+## 👩🏻‍💼Profile
 Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer using Unity Engine. Currently an active student at Binus University, majoring in Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
+
+## 🧠Skills
+- Programming Language: C# & C
 
 ## 🛠️Tools / Software
 The tools / software that I often use are:
