@@ -37,6 +37,4 @@ Hello! My name is Wahyu Werayana, I'm a beginner and passionate game programmer 
 ## 🛠️Tools / Software
 The tools / software that I often use are:
 - Unity
-- Krita
-- Aseprite
 - Visual Studio Code
