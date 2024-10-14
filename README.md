@@ -26,12 +26,12 @@
 
 <table>
   <tr>
-    <th width="500px"> <a href="https://github.com/wahyuwerayana/IGI-Showcase-Project">Nora's Breath</th>
+    <th width="500px"> <a href="https://github.com/wahyuwerayana/Noras-Breath">Nora's Breath</th>
     <th width="500px"> <a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Forbidden Dreams</th>
   </tr>
       
   <tr width="500px" align="center">
-    <td><img src="https://github.com/user-attachments/assets/073f2065-778b-410d-bddf-e20f936e4695" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/24b059a6-c748-44e5-a877-8ff380faa1f4" height="200px"></td>
     <td><img src="https://github.com/wahyuwerayana/Forbidden-Dream-Project/assets/115724777/27d1cf97-fc30-4845-9e96-6217327e648b" height="200px"></td>
   </tr>
     
