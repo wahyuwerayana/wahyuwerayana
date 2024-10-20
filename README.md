@@ -19,6 +19,11 @@
       <td align='center'><a href="https://github.com/wahyuwerayana/Noras-Breath">Read More</td>
       <td align='center'><a href="https://github.com/wahyuwerayana/Sky-Adventure-Side-Scroller/">Read More</td>
   </tr>
+
+  <tr>
+    <td align='center'><a href="https://github.com/wahyuwerayana/Noras-Breath/releases">Download</td>
+    <td align='center'><a href="https://github.com/wahyuwerayana/Sky-Adventure-Side-Scroller/releases">Download</td>
+  </tr>
   </tbody>
 </table>
 
@@ -44,6 +49,12 @@
       <td align='center'><a href="https://github.com/wahyuwerayana/S-PONG">Read More</td>
       <td align='center'><a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project">Read More</td>
   </tr>
+    
+   <tr>
+    <td align='center'><a href="https://github.com/wahyuwerayana/S-PONG/releases">Download</td>
+    <td align='center'><a href="https://github.com/wahyuwerayana/Forbidden-Dream-Project/releases">Download</td>
+  </tr>
+        
   </tbody>
 </table>
 
