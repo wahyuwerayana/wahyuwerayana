@@ -41,7 +41,7 @@
   </tr>
     
   <tr width="500px">
-      <td>S-PONG is a 2D Pong Game with space theme created with Unity Engine. As a Game Programmer, I created the background animation, transition from main menu to game scene with Animator Controller. Created the UI using Unity UI System, game mechanics and implemented it in code.</td>
+      <td>S-PONG Online Multiplayer is an Online Multiplayer 2D Pong Game with space theme created with Unity Engine. As a Game Programmer, I created the background animation, transition from main menu to game scene with Animator Controller. Created the UI using Unity UI System, game mechanics and implemented it in code. Implemented the multiplayer system using Unity Netcode for GameObjects and Unity Relay.</td>
       <td>A serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element. Here I implement the mechanics for the main story part in this game, created the dialogue system, UI, created the main character + sign language assets, and the transition between scenes.</td>
   </tr>
 
